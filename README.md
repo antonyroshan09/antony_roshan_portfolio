@@ -12,7 +12,11 @@ I'm an EEE student currently learning programming and exploring technology and e
 
 ## 🔧 Projects
 
-- Coming soon...
+### Student Grade Calculator
+
+A beginner C program that calculates total marks, average, and grade.
+
+[View Project](https://github.com/antonyroshan09/student-grade-calculator)
 
 ## 🎯 Goals
 
