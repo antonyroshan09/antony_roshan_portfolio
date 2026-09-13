@@ -18,6 +18,12 @@ A beginner C program that calculates total marks, average, and grade.
 
 [View Project](https://github.com/antonyroshan09/student-grade-calculator)
 
+### Electricity Bill Calculator
+
+A beginner C program that calculates an electricity bill using sample tariff slabs.
+
+[View Project](https://github.com/antonyroshan09/electricity-bill-calculator)
+
 ## 🎯 Goals
 
 To learn continuously, build practical projects, and grow as an engineer.
