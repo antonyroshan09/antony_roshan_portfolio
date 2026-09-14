@@ -24,6 +24,12 @@ A beginner C program that calculates an electricity bill using sample tariff sla
 
 [View Project](https://github.com/antonyroshan09/electricity-bill-calculator)
 
+### Ohm's Law Calculator
+
+A beginner C program that calculates voltage using Ohm's Law.
+
+[View Project](https://github.com/antonyroshan09/ohms-law-calculator)
+
 ## 🎯 Goals
 
 To learn continuously, build practical projects, and grow as an engineer.
